@@ -4,7 +4,7 @@
 - 👨‍💻 All of my projects are available at [https://www.daniel-bennett-portfolio.com](https://www.daniel-bennett-portfolio.com)
  ![portfolio-readme-image](https://user-images.githubusercontent.com/75595585/172957107-6f8555be-0fd1-4f20-aa7d-ea1e480d763d.png)
 
-- 📫 How to reach me **danielandrew362@gmail.com**
+- 📫 How to reach me **danielbennettwebdev@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
