@@ -1,10 +1,11 @@
+ ![portfolio-readme-image](https://github.com/Dabble362/Dabble362/blob/main/title_banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate Web developer from Columbus, Ohio</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.daniel-bennett-portfolio.com](https://www.daniel-bennett-portfolio.com)
- ![portfolio-readme-image](https://github.com/Dabble362/Dabble362/blob/main/title_banner.png?raw=true)
+- 👨‍💻 My projects: [https://www.daniel-bennett-portfolio.com](https://www.daniel-bennett-portfolio.com)
 
-- 📫 How to reach me **danielbennettwebdev@gmail.com**
+
+- 📫 Email me: **danielbennettwebdev@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
