@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from Columbus, Ohio</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.daniel-bennett-portfolio.com](https://www.daniel-bennett-portfolio.com)
- ![portfolio-readme-image](https://github.com/Dabble362/Dabble36]/main/daniel bennett.jpg?raw=true)
+ ![portfolio-readme-image](https://github.com/Dabble362/Dabble362/blob/main/title_banner.png?raw=true)
 
 - 📫 How to reach me **danielbennettwebdev@gmail.com**
 
