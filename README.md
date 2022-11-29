@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from Columbus, Ohio</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.daniel-bennett-portfolio.com](https://www.daniel-bennett-portfolio.com)
- ![portfolio-readme-image]([https://user-images.githubusercontent.com/75595585/172957107-6f8555be-0fd1-4f20-aa7d-ea1e480d763d.png](https://www.canva.com/design/DAFTWfzAJho/EOzG-sU37puAoAHvPWQa1A/view?utm_content=DAFTWfzAJho&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish))
+ ![portfolio-readme-image]([https://user-images.githubusercontent.com/75595585/172957107-6f8555be-0fd1-4f20-aa7d-ea1e480d763d.png])
 
 - 📫 How to reach me **danielbennettwebdev@gmail.com**
 
