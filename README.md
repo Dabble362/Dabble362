@@ -4,7 +4,7 @@
 
 <p>Passionate about technologies that make the world fun, sincere, and accessible.  I am a javascript developer with a focus on Front-end and API's.
 
-- 👨‍💻 My projects: [https://www.daniel-bennett-portfolio.com](https://www.daniel-bennett-portfolio.com)
+- 👨‍💻 My projects: [https://danielbennett.dev/](https://danielbennett.dev/)
 
 
 - 📫 Email me: **danielbennettwebdev@gmail.com**
